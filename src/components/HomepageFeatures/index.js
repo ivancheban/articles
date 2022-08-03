@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Litakcent Articles',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
         Here you can find a collection of articles, 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Bukvoid',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
         Here you can also find a collection of articles, 
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Kyiv Daily',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/4.svg').default,
     description: (
       <>
         Here you can also find a collection of articles, 
