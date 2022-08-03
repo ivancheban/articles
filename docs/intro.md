@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Docusaurus in less than 15 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **creating a very new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
