@@ -24,12 +24,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Kyiv Daily',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Here you can also find a collection of articles, 
+        published at Kyiv Daily from 2019 to 2021.
       </>
     ),
   },
