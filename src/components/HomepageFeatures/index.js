@@ -8,17 +8,18 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Here you can find a collection of articles, published at litakcent.com from 2012 to 2018.
+        Here you can find a collection of articles, 
+        published at litakcent.com from 2012 to 2018.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Bukvoid',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Here you can also find a collection of articles, 
+        published at bukvoid.com from 2008 to 2012.
       </>
     ),
   },
