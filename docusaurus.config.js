@@ -69,6 +69,12 @@ const config = {
             position: 'left',
             label: 'Articles',
           },
+          {
+            type: 'doc',
+            docId: 'intro2',
+            position: 'left',
+            label: 'TechCom',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
