@@ -1,41 +1,39 @@
-# Website
+## Getting Started
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Get started by **creating a very new site**.
 
-### Installation
+Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-```
-$ yarn
-```
+### What you'll need
 
-### Local Development
+- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
+  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-```
-$ yarn start
-```
+## Generate a new site
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Generate a new Docusaurus site using the **classic template**.
 
-### Build
+The classic template will automatically be added to your project after you run the command:
 
-```
-$ yarn build
+```bash
+npm init docusaurus@latest my-website classic
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-### Deployment
+The command also installs all necessary dependencies you need to run Docusaurus.
 
-Using SSH:
+## Start your site
 
-```
-$ USE_SSH=true yarn deploy
-```
+Run the development server:
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```bash
+cd my-website
+npm run start
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+
+The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
