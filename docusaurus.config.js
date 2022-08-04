@@ -70,9 +70,9 @@ const config = {
             label: 'Articles',
           },
           {
-            type: 'doc',
-            docId: 'intro2',
+            type: 'docSidebar',
             position: 'left',
+            sidebarId: 'techdoc',
             label: 'TechCom',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
