@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-displayed_sidebar: tutorialSidebar
+displayed_sidebar: articles
 ---
 
 # About this website
